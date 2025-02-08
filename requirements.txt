@@ -12,3 +12,7 @@ faiss-cpu
 langchain_chroma
 sentence_transformers
 langchain-groq
+wikipedia
+arxiv
+duckduckgo-search
+huggingface_hub
